@@ -3,7 +3,7 @@
 
 Ceci est une application client-serveur de chat.
 
-Pour l'utiliser, lancez un terminal, allez dans le dossier Tchat dans le projet et lancez la commande "javac -d . */*.java"
+Pour l'utiliser, lancez un terminal, allez dans le dossier Tchat dans le projet et lancez la commande "javac -d . \*/\*.java"
 
 Ensuite dans un terminal au même endroit lancez la commande "java TestServeur" pour lancer le serveur
 
