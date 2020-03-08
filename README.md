@@ -10,7 +10,7 @@ Ensuite dans un terminal au même endroit lancez la commande "java TestServeur" 
 Puis dans un autre terminal lancez la commande "java TestFenetre &" pour lancer un client (vous pouvez l'utiliser plusieur fois dans le même terminal)
 
 
-Pour avoir accès à la documentation lancez la commande "javadoc -d ../doc */*.java" puis ouvrez index.html dans le dossier doc
+Pour avoir accès à la documentation lancez la commande "javadoc -d ../doc \*/\*.java" puis ouvrez index.html dans le dossier doc
 
 
 
